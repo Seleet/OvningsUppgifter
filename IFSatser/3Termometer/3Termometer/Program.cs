@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Vilken temp visar termometern?");
+﻿Console.WriteLine("Vilken temp visar termometern?");
 double temp = Convert.ToDouble(Console.ReadLine());
 if (temp > 37.8 && temp <= 39.5)
 {
