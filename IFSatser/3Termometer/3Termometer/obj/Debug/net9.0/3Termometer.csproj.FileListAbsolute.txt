@@ -1,0 +1,14 @@
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\bin\Debug\net9.0\3Termometer.exe
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\bin\Debug\net9.0\3Termometer.deps.json
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\bin\Debug\net9.0\3Termometer.runtimeconfig.json
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\bin\Debug\net9.0\3Termometer.dll
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\bin\Debug\net9.0\3Termometer.pdb
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\obj\Debug\net9.0\3Termometer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\obj\Debug\net9.0\3Termometer.AssemblyInfoInputs.cache
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\obj\Debug\net9.0\3Termometer.AssemblyInfo.cs
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\obj\Debug\net9.0\3Termometer.csproj.CoreCompileInputs.cache
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\obj\Debug\net9.0\3Termometer.dll
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\obj\Debug\net9.0\refint\3Termometer.dll
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\obj\Debug\net9.0\3Termometer.pdb
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\obj\Debug\net9.0\3Termometer.genruntimeconfig.cache
+C:\Dev\OvningsUppgifter\IFSatser\3Termometer\3Termometer\obj\Debug\net9.0\ref\3Termometer.dll
