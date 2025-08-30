@@ -1,0 +1,15 @@
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\bin\Debug\net9.0\MinsToHours.exe
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\bin\Debug\net9.0\MinsToHours.deps.json
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\bin\Debug\net9.0\MinsToHours.runtimeconfig.json
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\bin\Debug\net9.0\MinsToHours.dll
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\bin\Debug\net9.0\MinsToHours.pdb
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\obj\Debug\net9.0\MinsToHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\obj\Debug\net9.0\MinsToHours.AssemblyInfoInputs.cache
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\obj\Debug\net9.0\MinsToHours.AssemblyInfo.cs
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\obj\Debug\net9.0\MinsToHours.csproj.CoreCompileInputs.cache
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\obj\Debug\net9.0\MinsToHours.sourcelink.json
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\obj\Debug\net9.0\MinsToHours.dll
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\obj\Debug\net9.0\refint\MinsToHours.dll
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\obj\Debug\net9.0\MinsToHours.pdb
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\obj\Debug\net9.0\MinsToHours.genruntimeconfig.cache
+C:\Dev\OvningsUppgifter\Variabler\11MinsToHours\MinsToHours\obj\Debug\net9.0\ref\MinsToHours.dll
