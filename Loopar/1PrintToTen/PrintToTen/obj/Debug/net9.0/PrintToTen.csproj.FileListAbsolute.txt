@@ -1,0 +1,15 @@
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\bin\Debug\net9.0\PrintToTen.exe
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\bin\Debug\net9.0\PrintToTen.deps.json
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\bin\Debug\net9.0\PrintToTen.runtimeconfig.json
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\bin\Debug\net9.0\PrintToTen.dll
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\bin\Debug\net9.0\PrintToTen.pdb
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\obj\Debug\net9.0\PrintToTen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\obj\Debug\net9.0\PrintToTen.AssemblyInfoInputs.cache
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\obj\Debug\net9.0\PrintToTen.AssemblyInfo.cs
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\obj\Debug\net9.0\PrintToTen.csproj.CoreCompileInputs.cache
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\obj\Debug\net9.0\PrintToTen.sourcelink.json
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\obj\Debug\net9.0\PrintToTen.dll
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\obj\Debug\net9.0\refint\PrintToTen.dll
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\obj\Debug\net9.0\PrintToTen.pdb
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\obj\Debug\net9.0\PrintToTen.genruntimeconfig.cache
+C:\Dev\OvningsUppgifter\Loopar\1PrintToTen\PrintToTen\obj\Debug\net9.0\ref\PrintToTen.dll
