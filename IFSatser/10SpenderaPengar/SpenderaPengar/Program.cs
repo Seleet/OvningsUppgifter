@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.Write("Hur mycket pengar har du?: ");
+﻿Console.Write("Hur mycket pengar har du?: ");
 var pengar = int.Parse(Console.ReadLine();
 Console.WriteLine("Har du rabatt? (j/n): ");
 bool rabatt = Console.ReadLine();.ToLower() == "j";
