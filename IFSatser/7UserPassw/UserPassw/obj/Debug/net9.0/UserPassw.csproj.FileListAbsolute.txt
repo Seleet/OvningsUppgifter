@@ -1,0 +1,15 @@
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\bin\Debug\net9.0\UserPassw.exe
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\bin\Debug\net9.0\UserPassw.deps.json
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\bin\Debug\net9.0\UserPassw.runtimeconfig.json
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\bin\Debug\net9.0\UserPassw.dll
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\bin\Debug\net9.0\UserPassw.pdb
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\obj\Debug\net9.0\UserPassw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\obj\Debug\net9.0\UserPassw.AssemblyInfoInputs.cache
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\obj\Debug\net9.0\UserPassw.AssemblyInfo.cs
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\obj\Debug\net9.0\UserPassw.csproj.CoreCompileInputs.cache
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\obj\Debug\net9.0\UserPassw.sourcelink.json
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\obj\Debug\net9.0\UserPassw.dll
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\obj\Debug\net9.0\refint\UserPassw.dll
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\obj\Debug\net9.0\UserPassw.pdb
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\obj\Debug\net9.0\UserPassw.genruntimeconfig.cache
+C:\Dev\OvningsUppgifter\IFSatser\7UserPassw\UserPassw\obj\Debug\net9.0\ref\UserPassw.dll
