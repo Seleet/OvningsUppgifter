@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\OvningsUppgifter\\IFSatser\\SpenderaPengar\\SpenderaPengar\\SpenderaPengar.csproj",
+      "projectUniqueName": "C:\\Dev\\OvningsUppgifter\\IFSatser\\10SpenderaPengar\\SpenderaPengar\\SpenderaPengar.csproj",
       "projectName": "SpenderaPengar",
-      "projectPath": "C:\\Dev\\OvningsUppgifter\\IFSatser\\SpenderaPengar\\SpenderaPengar\\SpenderaPengar.csproj",
+      "projectPath": "C:\\Dev\\OvningsUppgifter\\IFSatser\\10SpenderaPengar\\SpenderaPengar\\SpenderaPengar.csproj",
       "packagesPath": "C:\\Users\\mseli\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\OvningsUppgifter\\IFSatser\\SpenderaPengar\\SpenderaPengar\\obj\\",
+      "outputPath": "C:\\Dev\\OvningsUppgifter\\IFSatser\\10SpenderaPengar\\SpenderaPengar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

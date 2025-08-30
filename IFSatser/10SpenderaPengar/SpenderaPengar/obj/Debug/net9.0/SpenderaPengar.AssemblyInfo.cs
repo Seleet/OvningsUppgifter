@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpenderaPengar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32916dde3140b786d27a1bde5e18a6e14e432aa5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f2f8471912f4a8d101948a2d2e61ff7f30fb098")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpenderaPengar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpenderaPengar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
