@@ -1,0 +1,15 @@
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\bin\Debug\net9.0\MellanTalen.exe
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\bin\Debug\net9.0\MellanTalen.deps.json
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\bin\Debug\net9.0\MellanTalen.runtimeconfig.json
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\bin\Debug\net9.0\MellanTalen.dll
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\bin\Debug\net9.0\MellanTalen.pdb
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\obj\Debug\net9.0\MellanTalen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\obj\Debug\net9.0\MellanTalen.AssemblyInfoInputs.cache
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\obj\Debug\net9.0\MellanTalen.AssemblyInfo.cs
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\obj\Debug\net9.0\MellanTalen.csproj.CoreCompileInputs.cache
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\obj\Debug\net9.0\MellanTalen.sourcelink.json
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\obj\Debug\net9.0\MellanTalen.dll
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\obj\Debug\net9.0\refint\MellanTalen.dll
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\obj\Debug\net9.0\MellanTalen.pdb
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\obj\Debug\net9.0\MellanTalen.genruntimeconfig.cache
+C:\Dev\OvningsUppgifter\Loopar\2MellanTalen\MellanTalen\obj\Debug\net9.0\ref\MellanTalen.dll
