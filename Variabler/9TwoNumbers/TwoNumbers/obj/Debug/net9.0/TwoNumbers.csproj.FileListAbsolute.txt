@@ -1,0 +1,15 @@
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\obj\Debug\net9.0\TwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\obj\Debug\net9.0\TwoNumbers.AssemblyInfoInputs.cache
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\obj\Debug\net9.0\TwoNumbers.AssemblyInfo.cs
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\obj\Debug\net9.0\TwoNumbers.csproj.CoreCompileInputs.cache
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\obj\Debug\net9.0\TwoNumbers.sourcelink.json
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\bin\Debug\net9.0\TwoNumbers.exe
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\bin\Debug\net9.0\TwoNumbers.deps.json
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\bin\Debug\net9.0\TwoNumbers.runtimeconfig.json
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\bin\Debug\net9.0\TwoNumbers.dll
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\bin\Debug\net9.0\TwoNumbers.pdb
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\obj\Debug\net9.0\TwoNumbers.dll
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\obj\Debug\net9.0\refint\TwoNumbers.dll
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\obj\Debug\net9.0\TwoNumbers.pdb
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\obj\Debug\net9.0\TwoNumbers.genruntimeconfig.cache
+C:\Dev\OvningsUppgifter\Variabler\9TwoNumbers\TwoNumbers\obj\Debug\net9.0\ref\TwoNumbers.dll
