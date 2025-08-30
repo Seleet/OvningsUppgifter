@@ -1,0 +1,15 @@
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\bin\Debug\net9.0\CarOrigin.exe
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\bin\Debug\net9.0\CarOrigin.deps.json
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\bin\Debug\net9.0\CarOrigin.runtimeconfig.json
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\bin\Debug\net9.0\CarOrigin.dll
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\bin\Debug\net9.0\CarOrigin.pdb
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\obj\Debug\net9.0\CarOrigin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\obj\Debug\net9.0\CarOrigin.AssemblyInfoInputs.cache
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\obj\Debug\net9.0\CarOrigin.AssemblyInfo.cs
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\obj\Debug\net9.0\CarOrigin.csproj.CoreCompileInputs.cache
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\obj\Debug\net9.0\CarOrigin.sourcelink.json
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\obj\Debug\net9.0\CarOrigin.dll
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\obj\Debug\net9.0\refint\CarOrigin.dll
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\obj\Debug\net9.0\CarOrigin.pdb
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\obj\Debug\net9.0\CarOrigin.genruntimeconfig.cache
+C:\Dev\OvningsUppgifter\IFSatser\9CarOrigin\CarOrigin\obj\Debug\net9.0\ref\CarOrigin.dll
